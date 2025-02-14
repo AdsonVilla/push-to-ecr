@@ -1,7 +1,7 @@
 # **DevOps Project: Deploy de imagem NGINX para o Amazon ECR via GitHub Actions**
 
 ## **Descrição do Projeto**
-Este projeto demonstra um fluxo de trabalho DevOps para criar, configurar e enviar uma imagem Docker do NGINX para o Amazon Elastic Container Registry (ECR). O objetivo é automatizar o envio da imagem utilizando uma pipeline configurada no GitHub Actions, enquanto também disponibilizamos scripts manuais para execução local.
+Este projeto demonstra um fluxo de trabalho DevOps para criar, configurar e enviar uma imagem Docker do NGINX para o Amazon Elastic Container Registry (ECR). O objetivo é automatizar o envio da imagem utilizando uma pipeline configurada no GitHub Actions, enquanto também foi disponibilizado scripts manuais para execução local.
 
 ---
 
