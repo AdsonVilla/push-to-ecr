@@ -37,5 +37,5 @@ jobs:
     - name: Build and push Docker image
       run: |
         docker build -t nginx .
-        docker tag nginx-demo:latest ${{ secrets.ECR_URL }}/nginx-demo:latest
+        docker tag nginx:latest ${{ secrets.ECR_URL }}/nginx-demo:latest
         docker push ${{ secrets.ECR_URL }}/nginx-demo:latest
